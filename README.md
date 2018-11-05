@@ -1,11 +1,20 @@
 # OpenGL_turtorial
 
-![6.6](./Images/6.6.gif)
-![6.6-2](./Images/6.6-2.gif)
-![6-8](./Images/6-8.gif)
-![prac2](./Images/prac2.gif)
-![practice](./Images/practice.gif)
-
+<p>
+  <img src="./Images/6.6.gif" width="40%">
+</p>
+<p>
+  <img src="./Images/6.6-2.gif" width="40%">
+</p>
+<p>
+  <img src="./Images/6-8.gif" width="40%">
+</p>
+<p>
+  <img src="./Images/prac2.gif" width="40%">
+</p>
+<p>
+  <img src="./Images/practice.gif" width="40%">
+</p>
 
 </br> 
 <a href="mailto:dydtjr1994@gmail.com" target="_blank">
