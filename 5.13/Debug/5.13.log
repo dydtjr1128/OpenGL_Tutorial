@@ -1,0 +1,4 @@
+﻿  gl.cpp
+c:\users\cysn\documents\visual studio 2015\projects\glex\5.13\gl.cpp(23): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  5.13.vcxproj -> C:\Users\CYSN\documents\visual studio 2015\Projects\glEX\Debug\5.13.exe
+  5.13.vcxproj -> C:\Users\CYSN\documents\visual studio 2015\Projects\glEX\Debug\5.13.pdb (Full PDB)
