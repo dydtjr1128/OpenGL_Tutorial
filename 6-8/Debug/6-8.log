@@ -3,5 +3,4 @@ c:\users\cysn\documents\visual studio 2015\projects\glex\6-8\gl.cpp(9): warning 
 c:\users\cysn\documents\visual studio 2015\projects\glex\6-8\gl.cpp(11): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
 c:\users\cysn\documents\visual studio 2015\projects\glex\6-8\gl.cpp(14): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
 c:\users\cysn\documents\visual studio 2015\projects\glex\6-8\gl.cpp(15): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
-  6-8.vcxproj -> C:\Users\CYSN\documents\visual studio 2015\Projects\glEX\Debug\6-8.exe
-  6-8.vcxproj -> C:\Users\CYSN\documents\visual studio 2015\Projects\glEX\Debug\6-8.pdb (Full PDB)
+  6-8.vcxproj -> C:\Users\CYSN\Documents\Visual Studio 2015\Projects\glEX\Debug\6-8.exe
