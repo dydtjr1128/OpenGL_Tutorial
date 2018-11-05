@@ -2,14 +2,10 @@
 
 <p>
   <img src="./Images/6.6.gif" width="40%">
-</p>
-<p>
   <img src="./Images/6.6-2.gif" width="40%">
 </p>
 <p>
   <img src="./Images/6-8.gif" width="40%">
-</p>
-<p>
   <img src="./Images/prac2.gif" width="40%">
 </p>
 <p>
